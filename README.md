@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifat Tamanna</h1>
-<h3 align="center">A passionate SQA Engineer from Bangladesh. Proficient in manual and automated testing methodologies. Experienced in scripting and utilizing automation tools such as selenium in Java, Appium, Postman, JMeter, TestNG, Cypress, Jira, Jenkins etc.</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh. Proficient in manual and automated testing methodologies. Experienced in scripting and utilizing automation tools such as Selenium in Java, Appium, Postman, JMeter, TestNG, Cypress, Jira, Jenkins, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifattamanna&label=Profile%20views&color=0e75b6&style=flat" alt="rifattamanna" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **QA Engineer**
 
-- 🌱 I’m currently learning **Web Automation, Mobile Automation, API Testing,Performance Testing, Selenium in Java, Appium, Cucumber, Cypress etc.**
+- 🌱 I’m currently learning **Web Automation, Mobile Automation, Selenium in Java, Appium, Cucumber, Cypress, API Testing, Performance Testing, Database Testing, Security Testing, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RifatTamanna](https://github.com/RifatTamanna)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tamannarahman1928@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/12pRmph6lHwSGw7R9ngBm7WbYcHnHyYF1/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/17kePTB9LXsnCn7EO18lBE-QSx1MuWKFF/view?usp=sharing
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
