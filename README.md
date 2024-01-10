@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tamannarahman1928@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/17kePTB9LXsnCn7EO18lBE-QSx1MuWKFF/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/17kePTB9LXsnCn7EO18lBE-QSx1MuWKFF/view?usp=sharing](https://drive.google.com/file/d/1jAqF6SMjT5Ok9X_7V0Lt9ZbLN9nNER4L/view?usp=drive_link)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
