@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as a **QA Engineer**
+- 🔭 I’m currently working as a **SQA Engineer**
 
-- 🌱 I’m currently learning **Web Automation, Mobile Automation, Selenium in Java, Appium, Cucumber, Cypress, API Testing, Performance Testing, Database Testing, Security Testing, etc.**
+- 🌱 I’m currently learning **Web Automation, Mobile Automation, Playwright in JavaScript, API Testing, Performance Testing,Functional Testing, Database Testing, Security Testing, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RifatTamanna](https://github.com/RifatTamanna)
 
