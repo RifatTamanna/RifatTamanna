@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifat Tamanna</h1>
-<h3 align="center">A passionate SQA Engineer from Bangladesh. Proficient in manual and automated testing methodologies. Experienced in scripting and utilizing automation tools such as Selenium in Java, Appium, Postman, JMeter, TestNG, Cypress, Jira, Jenkins, etc.</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh. Proficient in manual and automated testing methodologies. Experienced in scripting and utilizing automation tools such as Playwright in JavaScript, Postman, JMeter, CI/CD, Jira, Jenkins, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifattamanna&label=Profile%20views&color=0e75b6&style=flat" alt="rifattamanna" /> </p>
 
