@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tamannarahman1928@gmail.com**
 
-- 📄 Know about my experiences Rifat Tamanna CV (https://drive.google.com/drive/folders/1qsUOlfDMYFm3V5XxsUCqmrrzD3bqWUgT)
+- 📄 Know about my experiences Rifat Tamanna CV (https://drive.google.com/file/d/1y64zIzf5Af_UPUM_VEpB3XZSLdj6Wxc7/view?usp=sharing)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
